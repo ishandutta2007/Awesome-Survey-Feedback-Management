@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Survey-Feedback-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Survey-Feedback-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Survey-Feedback-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Survey-Feedback-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Survey-Feedback-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Survey-Feedback-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Survey-Feedback-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Survey-Feedback-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -158,7 +158,7 @@ Below is the benchmarked matrix of leading commercial survey and feedback platfo
 
 Open-source survey and feedback systems give engineering teams complete data ownership, eliminate per-seat or per-response licensing fees, and prevent vendor lock-in.
 
-The list below is **sorted strictly in descending order by GitHub stargazers count**. Each project includes a live white-themed social star badge linking directly to that repository's stargazers page.
+The list below is **sorted strictly in descending order by GitHub stargazers count**. Each project includes a live white-themed social Stars_Badge linking directly to that repository's stargazers page.
 
 ### ⭐ Open-Source Star Leaderboard
 
@@ -291,7 +291,7 @@ Contributions from developers, researchers, and product teams are always welcome
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a dedicated branch:** `git checkout -b feature/add-new-tool`.
-3. ✍️ **Add your platform or open-source tool** to `README.md` following the existing format. Include exact pricing tiers, free tier specifications, and live star count badges where applicable.
+3. ✍️ **Add your platform or open-source tool** to `README.md` following the existing format. Include exact pricing tiers, free tier specifications, and live Stars_Count badges where applicable.
 4. 🔍 **Verify links and formatting** to ensure valid markdown and clean table syntax.
 5. 🚀 **Submit a Pull Request** with a concise summary of the additions.
 
